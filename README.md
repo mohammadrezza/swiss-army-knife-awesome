@@ -20,3 +20,6 @@ Small set of tools for JVM troublshooting, monitoring and profiling.
 
 [BtleJack](https://github.com/virtualabs/btlejack)
 Bluetooth Low Energy Swiss-army knife
+
+[bettercap](https://github.com/bettercap/bettercap)
+The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks.
