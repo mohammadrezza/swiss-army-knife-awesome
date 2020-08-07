@@ -11,3 +11,6 @@ The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and
 
 [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
 A swiss army knife for pentesting networks
+
+[Climate](https://github.com/adtac/climate)
+The swiss-army knife of utility tools for Linux.
