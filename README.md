@@ -8,3 +8,6 @@ The Swiss Army Knife of Embedded Linux
 
 [CyberChef](https://github.com/gchq/CyberChef)
 The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+
+[CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+A swiss army knife for pentesting networks
