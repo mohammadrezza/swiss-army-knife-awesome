@@ -26,3 +26,6 @@ The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MI
 
 [Jaeles](https://github.com/jaeles-project/jaeles)
 The Swiss Army knife for automated Web Application Testing.
+
+[m-cli](https://github.com/rgcr/m-cli)
+Swiss Army Knife for macOS
