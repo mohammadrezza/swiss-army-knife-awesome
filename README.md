@@ -17,3 +17,6 @@ The swiss-army knife of utility tools for Linux.
 
 [Swiss Java Knife (SJK)](https://github.com/aragozin/jvm-tools)
 Small set of tools for JVM troublshooting, monitoring and profiling.
+
+[BtleJack](https://github.com/virtualabs/btlejack)
+Bluetooth Low Energy Swiss-army knife
