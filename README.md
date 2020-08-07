@@ -29,3 +29,6 @@ The Swiss Army knife for automated Web Application Testing.
 
 [m-cli](https://github.com/rgcr/m-cli)
 Swiss Army Knife for macOS
+
+[htrace](https://github.com/trimstray/htrace.sh)
+Simple Swiss Army knife for http/https troubleshooting and profiling.
