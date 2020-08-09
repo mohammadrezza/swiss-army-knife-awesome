@@ -32,3 +32,6 @@ Swiss Army Knife for macOS
 
 [htrace](https://github.com/trimstray/htrace.sh)
 Simple Swiss Army knife for http/https troubleshooting and profiling.
+
+[kube-prompt](https://github.com/c-bata/kube-prompt)
+Swiss Army knife on kubectl.
