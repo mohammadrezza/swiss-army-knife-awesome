@@ -38,3 +38,6 @@ Swiss Army knife on kubectl.
 
 [bench-scripts](https://github.com/haydenjames/bench-scripts)
 Collections of swiss army knifes for benchmarking your servers.
+
+[wondershaper](https://github.com/magnific0/wondershaper)
+Swiss Army knife for simple bandwidth management.
