@@ -41,3 +41,7 @@ Collections of swiss army knifes for benchmarking your servers.
 
 [wondershaper](https://github.com/magnific0/wondershaper)
 Swiss Army knife for simple bandwidth management.
+
+
+[learnxinyminutes](https://learnxinyminutes.com/)
+Swiss Army knife to learn the basics of everything,
