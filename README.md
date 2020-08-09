@@ -35,3 +35,6 @@ Simple Swiss Army knife for http/https troubleshooting and profiling.
 
 [kube-prompt](https://github.com/c-bata/kube-prompt)
 Swiss Army knife on kubectl.
+
+[bench-scripts](https://github.com/haydenjames/bench-scripts)
+Collections of swiss army knifes for benchmarking your servers.
